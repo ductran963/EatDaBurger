@@ -1,0 +1,45 @@
+body {
+  background-color: rgb(238, 171, 38);
+}
+
+img {
+  width: 20%;
+  height: auto;
+  justify-content: center;
+  margin: auto 0;
+  
+}
+
+h1 {
+
+  text-align: center;
+}
+
+li {
+    padding: 5px;
+    margin: 5px;
+    background: #faebd7;
+  }
+  
+  .label {
+    font-weight: bold;
+  }
+  
+  .create-update-form {
+    padding: 5px;
+    margin: 5px;
+    background: white;
+  }
+  
+  .form-group {
+    margin-bottom: 5px;
+  }
+
+  .eaten{
+    text-decoration: line-through;
+  }
+
+  .eaten > .change-devoured{
+    display: none;
+  }
+  
