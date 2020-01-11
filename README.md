@@ -12,9 +12,7 @@ Link to deployed Heroku: https://ductran963.github.io/weatherForecast/
 
 Eat Da Burger website image:
 
-<<<<<<< HEAD
 ![image info](burgerApp.png)
-=======
-![image info](/assets/img/burgerApp.png)
->>>>>>> d2652c1d6b14620bc31ef0ea84f6b948a818009f
+
+
 
