@@ -8,8 +8,6 @@ The purpose of this homework assignment is to learn about the MVC functionality 
 
 The functionality of this project is to allow users to add as many burger as they want and at the same time be able to manipulate the data they added with devoured button. The MVC style allowed us to be more organized with our codes, while making it easier to edits and find errors. 
 
-#### Link to deployed Heroku: https://ductran963.github.io/weatherForecast/
-
 #### Eat Da Burger website image:
 
 ![image info](burgerApp.png)
